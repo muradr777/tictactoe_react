@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Tic Tac Toe game using React
+
+**Official React tutorial**
+
+Decided to fresh my knowledge of react by doing basic intro tutorial from React developers.
+
+## How to Play
+
+You choose "X" or "O" like in regular game. App shows who has the current turn.
+
+It's even possible to go back in time! But seriously if you made a mistake you can go back to selected turn and play again.
+
+This feature shows advantages of JS immutable objects.
+
+Take a turn, and show everybody who is the winner!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
